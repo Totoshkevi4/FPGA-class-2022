@@ -2,6 +2,8 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
+-- N-bit Buffer with Tri-State
+
 entity buf4 is
     generic(
         constant N : integer := 4
