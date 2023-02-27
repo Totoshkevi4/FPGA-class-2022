@@ -2,7 +2,9 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
+
 -- Coder with 2 inputs and EN input
+
 
 entity cod2 is
     port (
