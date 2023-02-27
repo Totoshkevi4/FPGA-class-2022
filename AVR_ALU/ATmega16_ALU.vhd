@@ -12,7 +12,7 @@ entity ATmega16_ALU is
         -- T - Bit Copy Storage (not used)
         -- H - Half Carry Flag
         -- S - Sign Bit
-        -- V - Two�s Complement Overflow Flag
+        -- V - Two's Complement Overflow Flag
         -- N - Negative Flag
         -- Z - Zero Flag
         -- C - Carry Flag
